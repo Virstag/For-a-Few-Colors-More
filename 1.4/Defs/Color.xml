@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<ColorDef Abstract="True" Name="IdeoColorBase">
+    <colorType>Ideo</colorType>
+</ColorDef>
+
+
+<!-- Shattered Empire from Royalty DLC -->
+
+<ColorDef ParentName="IdeoColorBase">
+    <defName>217217191</defName>
+    <color>(217, 217, 191)</color>
+  </ColorDef>
+
+
+<!-- Central Republic from VFE: Classical -->
+
+<ColorDef ParentName="IdeoColorBase">
+    <defName>9912297</defName>
+    <color>(99, 122, 97)</color>
+  </ColorDef>
+  
+
+<!-- Fae Tribe from Roo's Satyr and Faun Xenotypes Expanded -->
+  
+<ColorDef ParentName="IdeoColorBase">
+    <defName>5711667</defName>
+    <color>(57, 116, 67)</color>
+  </ColorDef>
+  
+<ColorDef ParentName="IdeoColorBase">
+    <defName>5811667</defName>
+    <color>(58, 116, 67)</color>
+  </ColorDef>
+  
+<ColorDef ParentName="IdeoColorBase">
+    <defName>607050</defName>
+    <color>(60, 70, 50)</color>
+  </ColorDef>
+  
+
+<!-- Scattered Remnants from Reinforced Mechanoid 2 -->
+  
+<ColorDef ParentName="IdeoColorBase">
+    <defName>15814013</defName>
+    <color>(158, 140, 13)</color>
+  </ColorDef>
+
+<ColorDef ParentName="IdeoColorBase">
+    <defName>12711179</defName>
+    <color>(127, 111, 79)</color>
+  </ColorDef>
+  
+<ColorDef ParentName="IdeoColorBase">
+    <defName>978279</defName>
+    <color>(97, 82, 79)</color>
+  </ColorDef>
+   
+</Defs>
